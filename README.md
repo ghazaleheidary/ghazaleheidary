@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghazaleheidary
+- 👋 Hello, I’m @ghazaleheidary
 - 👀 I’m interested in BI and data analysis
 - 🌱 I’m currently learning SQL and R
 - 💞️ I’m looking to collaborate on ...
